@@ -1,0 +1,17 @@
+{
+  "name": "dot-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A minimalistic JavaScript framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example/server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "cors": "^2.8.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
