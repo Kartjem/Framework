@@ -26,7 +26,7 @@ dot-js is based on:
 1.**Clone the Repository**
 
 ```bash
-   git clone https://gitea.kood.tech/artjomkulikovski/frontend-framework.git
+   git clone https://github.com/Kartjem/Framework
    cd frontend-framework
 ```
 
